@@ -1,7 +1,11 @@
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title
+collections : 
+  posts: 
+    output: true 
+    permalink: /:categories/:year-:month-:day-:title
+
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
@@ -19,5 +23,18 @@ future: true
 
 # implementing i18n for EN | FR 
 languages: ["en", "fr"]
-default_lang : "en"
+default_lang : "fr"
 exclude_from_localizations: ["assets", "css", "js", "img","fonts"]
+
+# defaults configs 
+defaults:
+  - scope:
+      path: "_posts/en"
+    values:
+      lang: "en"
+      category: "en"
+  - scope:
+      path: "_posts/fr"
+    values:
+      lang: "fr"
+      category: "fr"

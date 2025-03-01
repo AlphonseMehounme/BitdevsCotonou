@@ -1,7 +1,7 @@
 
 menu:
   - name: "A propos"
-    url: "/about"
+    url: "/fr/about"
   - name: "Luma"
     url: "https://lu.ma/bitdevscotonou" 
   - name: "Communauté"
