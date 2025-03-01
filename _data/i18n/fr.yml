@@ -8,3 +8,7 @@ menu:
       external: true,
     }
   - { name: "Twitter", url: "https://x.com/BitdevsCotonou", external: true }
+
+common: 
+  read_more:  "Lire plus"
+  posted_on: "Publié le"
