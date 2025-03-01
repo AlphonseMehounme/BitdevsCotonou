@@ -4,7 +4,8 @@
       <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
     </div>
     <nav class="Header-nav">
-      {% for item in site.data.settings.menu %}
+      {% assign current_lang = page.lang | default : site.default_lang %}
+      {% for item in site.data.i18n.[current_lang].menu %}
         {% if item.external %}
         <a href="{{ item.url }}" target="_blank" rel="noopener nofollow">
             {{ item.name }}
