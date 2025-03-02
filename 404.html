@@ -5,5 +5,9 @@ permalink: 404.html
 ---
 
 <div>
-  <h1>404: Page not found</h1>
+  {% if post.lang == page.lang %}
+    <h1>404: Page not found</h1>
+  {% else %}
+    <h1>404: Page non trouvé</h1>
+  {% endif %}
 </div>
