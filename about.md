@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 ---
 
 BitDevs Cotonou is inpired by the the original [Bitdevs NYC](bitdevs.org) to help grow a community in Cotonou area of those interested in discussing and participating in
