@@ -3,6 +3,7 @@ layout: post
 type: socratic
 title: "Socratic Seminar #1"
 meetup: "https://lu.ma/y7cff6uz/"
+lang: en
 ---
 
 ## Location
