@@ -12,7 +12,9 @@ lang: "en"
     <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
     {% assign event_posts = 7 %}
     {% assign counter = 0 %}
+    
     {% for post in site.posts | where : "lang", page.lang %}
+      {% if post.lang == page.lang %}
       {% if post.type == "socratic" or post.type == "whitepaper" and post.lang == page.lang %}
         <div class="Home-posts-post">
           <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
@@ -24,6 +26,7 @@ lang: "en"
           {% break %} {% comment %}exit the for loop{% endcomment %}
         {% endif %}
       {% endif %}
+    {% endif %}
     {% endfor %}
     <p><a href="/events.html">See all events</a></p>
   </div>

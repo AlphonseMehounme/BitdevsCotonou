@@ -3,7 +3,8 @@ layout: post
 type: socratic
 title: "Seminaire Socratique #0"
 meetup: "https://lu.ma/y7cff6uz/"
-lang: fr
+permaLink: /fr/
+lang: "fr"
 ---
 
 ## Lieu
