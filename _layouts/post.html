@@ -2,7 +2,9 @@
 layout: default
 ---
 
+
 <section>
+  {% assign current_lang = page.lang | default : site.default_lang %}
   <div class="Post">
     <h1 class="Post-title">{{ page.title }}</h1>
     <div class="Post-info">
