@@ -22,3 +22,27 @@ $large-screen: 1024px;
 @import './home';
 @import './post';
 @import './blog';
+
+.lang-switcher {
+    position: relative;
+    display: inline-block;
+    margin: 0 1rem;
+
+    select {
+        padding: 0.25rem 0.5rem;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        background-color: transparent;
+        font-size: 0.9rem;
+        cursor: pointer;
+
+        &:hover {
+            border-color: #999;
+        }
+
+        &:focus {
+            outline: none;
+            border-color: #666;
+        }
+    }
+}
