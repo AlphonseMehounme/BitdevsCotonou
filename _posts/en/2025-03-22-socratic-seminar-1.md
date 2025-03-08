@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar #1"
-meetup: "https://lu.ma/y7cff6uz/"
+meetup: "https://lu.ma/ic2tftlz"
 lang: en
 ---
 
@@ -14,11 +14,17 @@ Road of Ecobank \| Gbèdjromèdé, Cotonou \| [Map](https://maps.app.goo.gl/ukUL
 
 ## Announcements
 
-We are glad to invite you to our [Socratic Seminar](/about)!
+We are glad to invite you to this month [Socratic Seminar](/about)!
 
-At this seminar, we will present Bitdevs Cotonou, its vision & mission and a brief introduction to Bitcoin Development and career paths it offers. Plus some members will share about their journey.
+Whether you are a developer, an aspiring developer, or simply curious, you are welcome at our meetup.
 
-A special thank you to our sponsor [Btrust](http://btrust.tech/) for support.
+During this meetup, we will cover two main topics: Career opportunities for Bitcoin developers and How Bitcoin works technically.
+
+If you're interested in any of these topics or want to learn more about Bitcoin's technical side, book your spot [HERE](https://lu.ma/ic2tftlz) and check out the agenda below.
+
+We look forward to seeing you.
+
+A special thanks to our sponsor [Btrust](http://btrust.tech/) for their support.
 
 ## Reminders
 
@@ -29,7 +35,23 @@ A special thank you to our sponsor [Btrust](http://btrust.tech/) for support.
 
 # Topics
 
-Coming soon
+#### Career opportunity in Bitcoin Space
+
+---
+
+MC: Alphonse
+
+- [Skills]()
+- [Career Paths]()
+- [Contributing to Bitcoin : Case of Bitcoin Core](https://jonatack.github.io/articles/how-to-contribute-pull-requests-to-bitcoin-core)
+
+#### Workshop : How Bitcoin works
+
+---
+
+MC: Abdias
+
+- [How Bitcoin works with Saving Satoshi](https://savingsatoshi.com/en)
 
 #### Upcoming Events & Announcements
 

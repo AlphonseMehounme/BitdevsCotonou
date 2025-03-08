@@ -30,7 +30,7 @@ A special thank you to our sponsor [Btrust](http://btrust.tech/) for support.
 
 # Topics
 
-### Bitdevs & Bitdevs Cotonou
+#### Bitdevs & Bitdevs Cotonou
 
 ---
 
@@ -41,7 +41,7 @@ MC: Alphonse
 - [Mision, Vision & Plans](https://x.com/BitdevsCotonou/status/1890128938984452604)
 - [Programes & Ressources](https://alphonsemehounme.github.io/bitdev/)
 
-### BOSS Program
+#### BOSS Program
 
 ---
 
@@ -49,7 +49,7 @@ MC: Abdias
 
 - [Journey in BOSS](https://x.com/BitcoinBenin/status/1888947989781111210)
 
-### Summer of Bitcoin
+#### Summer of Bitcoin
 
 ---
 
@@ -58,7 +58,7 @@ MC: Loïc & William
 - [Loïc's experience and recommendations](https://x.com/Loicbtc)
 - [William's journey](https://x.com/summerofbitcoin)
 
-### Bitcoin Development
+#### Bitcoin Development
 
 ---
 
