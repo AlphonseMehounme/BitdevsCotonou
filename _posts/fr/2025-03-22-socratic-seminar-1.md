@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #1"
-meetup: "https://lu.ma/y7cff6uz/"
+title: "Seminaire Socratique #1"
+meetup: "https://lu.ma/ic2tftlz"
 lang: fr
 ---
 
@@ -10,15 +10,21 @@ lang: fr
 
 L'événement se tiendra au **J Reside** :
 
-Route d'Ecobank \| Gbèdjromèdé, Cotonou \| [Plan](https://maps.app.goo.gl/ukULnxssWyySSuxLA)
+Route d'Ecobank \| Gbèdjromèdé, Cotonou \| [MAP](https://maps.app.goo.gl/ukULnxssWyySSuxLA)
 
 ## Annonce
 
 Nous sommes ravi de vous inviter à ce [Séminaire Socratiquie](/about)!
 
-Lors de ce séminaire, nous présenterons Bitdevs Cotonou, sa vision et sa mission, ainsi qu'une brève introduction au développement de Bitcoin et aux carrières qu'il offre. De plus, certains membres partageront leur parcours.
+​Que vous soyez un développeurs, développeurs en devenir ou simple curieux, vous avez votre place à notre meetup.
 
-Nous remercions tout particulièrement notre sponsor [Btrust] (http://btrust.tech/) pour son soutien.
+​Lors de ce meetup nous aborderons deux sujets principaux : Opportunités de carrières pour développeurs sur Bitcoin et Comment fonctionne Bitcoin techniquement.
+
+​Si un des sujets vous intéressent ou si vous souhaitez apprendre plus sur la partie technique de Bitcoin, prenez le rendez-vous [ICI](https://lu.ma/ic2tftlz) et consultez l'agenda ci-dessous.
+
+​Nous avons hâte de vous retrouver.
+
+Nous remercions tout particulièrement notre sponsor [Btrust](http://btrust.tech/) pour son soutien.
 
 ## Rappels
 
@@ -29,7 +35,23 @@ Nous remercions tout particulièrement notre sponsor [Btrust] (http://btrust.tec
 
 # Sujets
 
-Plus de détails bientôt
+### ​Opportunités de carrières pour devs sur Bitcoin
+
+---
+
+MC: Alphonse
+
+- [Compétences à avoir]()
+- [Options de carrières]()
+- [Contribuer à Bitcoin : Cas de Bitcoin Core](https://jonatack.github.io/articles/how-to-contribute-pull-requests-to-bitcoin-core)
+
+### Séance Pratique : Comment fonctionne Bitcoin
+
+---
+
+MC: Abdias
+
+- [Comprendre Bitcoin en sauvant Satoshi](https://savingsatoshi.com/fr)
 
 #### Événements à Venir & Annonces
 
