@@ -35,7 +35,7 @@ A special thanks to our sponsor [Btrust](http://btrust.tech/) for their support.
 
 # Topics
 
-#### Career opportunity in Bitcoin Space
+#### Career opportunities for Developers
 
 ---
 
@@ -45,13 +45,13 @@ MC: Alphonse
 - [Career Paths]()
 - [Contributing to Bitcoin : Case of Bitcoin Core](https://jonatack.github.io/articles/how-to-contribute-pull-requests-to-bitcoin-core)
 
-#### Workshop : How Bitcoin works
+#### Workshop : How does Bitcoin work ?
 
 ---
 
 MC: Abdias
 
-- [How Bitcoin works with Saving Satoshi](https://savingsatoshi.com/en)
+- [Understand how Bitcoin works by Saving Satoshi](https://savingsatoshi.com/en)
 
 #### Upcoming Events & Announcements
 

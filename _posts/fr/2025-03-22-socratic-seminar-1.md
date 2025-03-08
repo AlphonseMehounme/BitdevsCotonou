@@ -14,13 +14,13 @@ Route d'Ecobank \| Gbèdjromèdé, Cotonou \| [MAP](https://maps.app.goo.gl/ukUL
 
 ## Annonce
 
-Nous sommes ravi de vous inviter à ce [Séminaire Socratiquie](/about)!
+Nous sommes ravi de vous inviter au [Séminaire Socratiquie](/about) de ce mois!
 
-​Que vous soyez un développeurs, développeurs en devenir ou simple curieux, vous avez votre place à notre meetup.
+​Que vous soyez développeur, développeur en devenir ou simple curieux, vous avez votre place à notre meetup.
 
-​Lors de ce meetup nous aborderons deux sujets principaux : Opportunités de carrières pour développeurs sur Bitcoin et Comment fonctionne Bitcoin techniquement.
+​Lors de ce meetup nous aborderons deux sujets principaux : Opportunités de carrière pour développeurs sur Bitcoin et Comment fonctionne Bitcoin techniquement.
 
-​Si un des sujets vous intéressent ou si vous souhaitez apprendre plus sur la partie technique de Bitcoin, prenez le rendez-vous [ICI](https://lu.ma/ic2tftlz) et consultez l'agenda ci-dessous.
+​Si un des sujets vous intéresse ou si vous souhaitez apprendre plus sur la partie technique de Bitcoin, prenez le rendez-vous [ICI](https://lu.ma/ic2tftlz) et consultez l'agenda ci-dessous.
 
 ​Nous avons hâte de vous retrouver.
 
@@ -35,7 +35,7 @@ Nous remercions tout particulièrement notre sponsor [Btrust](http://btrust.tech
 
 # Sujets
 
-### ​Opportunités de carrières pour devs sur Bitcoin
+### ​Opportunités de carrière pour devs sur Bitcoin
 
 ---
 
@@ -45,7 +45,7 @@ MC: Alphonse
 - [Options de carrières]()
 - [Contribuer à Bitcoin : Cas de Bitcoin Core](https://jonatack.github.io/articles/how-to-contribute-pull-requests-to-bitcoin-core)
 
-### Séance Pratique : Comment fonctionne Bitcoin
+### Séance Pratique : Comment fonctionne Bitcoin ?
 
 ---
 
